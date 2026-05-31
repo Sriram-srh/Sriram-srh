@@ -105,8 +105,9 @@ Compact filter-integrated antenna achieving −29 dB return loss and 4.2 dB peak
 
 <div align="center">
 
-![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriram-srh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-srh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sriram-srh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sriram-srh&theme=tokyonight&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
