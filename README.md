@@ -19,7 +19,7 @@ Beyond web dev, I've worked on deep learning models for biomedical signal proces
 
 - 🏆 Won **Best ANSYS Electromagnetic Simulation Award** (₹10,000) at SRISHTI 2026
 - 🥉 **Third Prize** at Project Expo, M. Kumarasamy College of Engineering
-- 🌟 **SIH 2025 Finalist** — Smart India Hackathon, Chennai Institute of Technology
+- 🇮🇳 **SIH 2025 Finalist** — Smart India Hackathon, Chennai Institute of Technology
 - 📄 **3 patents filed/published** in AI, IoT, and RF domains
 
 ---
@@ -105,8 +105,8 @@ Compact filter-integrated antenna achieving −29 dB return loss and 4.2 dB peak
 
 <div align="center">
 
-![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriram-srh&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-srh&layout=compact&theme=tokyonight&hide_border=true)
+![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriram-srh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-srh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
