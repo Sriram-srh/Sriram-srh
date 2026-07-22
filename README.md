@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a 3rd-year Electronics and Communication Engineering student at M. Kumarasamy College of Engineering (Anna University), graduating in 2027. I build full-stack web applications and have a strong interest in AI-assisted software development.
+I'm a final year Electronics and Communication Engineering student at M. Kumarasamy College of Engineering (Anna University), graduating in 2027. I build full-stack web applications and have a strong interest in AI-assisted software development.
 
 Beyond web dev, I've worked on deep learning models for biomedical signal processing, RF antenna simulation, and smart IoT systems — two of which led to **patent filings** with Intellectual Property India.
 
